@@ -1,21 +1,4 @@
 # compartirgit
----
-title: "Desarrollo y diseminación de herramientas de análisis espacial"
-subtitle: "RStudio, Git y Zenodo"
-author: 
-  - "Marcos Rodrigues"
-  - "Pere Joan Gelabert"
-# date: Sys.Date()
-# bibliography: resources/biblio.bib
-output: rmdformats::readthedown 
-number_sections: true
----
-
-```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE)
-# options(crayon.enabled = TRUE)
-# load('data/data_workshop.Rdata')
-```
 
 El presente documento resume y organiza las tareas y procesos necesarios para crear, documentar y compartir funciones en entorno R. No obstante, la esencia del proceso es común a otros lenguajes de programación por lo que el procedimiento puede replicarse (con sus correspondientes adaptaciones) a otros entornos y lenguajes.
 
